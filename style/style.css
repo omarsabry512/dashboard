@@ -183,6 +183,9 @@ tiltle color #45108a
   width: 15px;
 }
 
+.dash-parent .dash-header .contact-info {
+  flex-grow: 1;
+}
 
 .dash-parent .dash-header .notification-parent {
   display: flex;
